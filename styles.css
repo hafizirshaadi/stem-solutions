@@ -37,9 +37,12 @@ header {
 }
 
 header h1 {
+    font-family: 'Orbitron', sans-serif;
     font-size: 24px;
     color: #fff;
-    text-shadow: 2px 2px 4px #000000;
+    text-shadow: 2px 2px 0px #000, -2px -2px 0px #000, 2px -2px 0px #000, -2px 2px 0px #000;
+    /* Outline for the text */
+    -webkit-text-stroke: 1px #000;
 }
 
 /* Main Content Styles */
