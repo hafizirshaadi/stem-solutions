@@ -187,12 +187,12 @@ footer {
     right: 20%;
 }
 
-.front  { transform: translateZ(50px); }
-.back   { transform: rotateY(180deg) translateZ(50px); }
-.left   { transform: rotateY(-90deg) translateZ(50px); }
-.right  { transform: rotateY(90deg) translateZ(50px); }
-.top    { transform: rotateX(90deg) translateZ(50px); }
-.bottom { transform: rotateX(-90deg) translateZ(50px); }
+.front  { transform: translateZ(35px); }
+.back   { transform: rotateY(180deg) translateZ(35px); }
+.left   { transform: rotateY(-90deg) translateZ(35px); }
+.right  { transform: rotateY(90deg) translateZ(35px); }
+.top    { transform: rotateX(90deg) translateZ(35px); }
+.bottom { transform: rotateX(-90deg) translateZ(35px); }
 
 @keyframes spin {
     0% {
