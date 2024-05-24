@@ -79,8 +79,8 @@ footer {
 /* Spinning Dice Logo Styles */
 .logo1 {
     position: absolute;
-    top: 20px;
-    left: 20px;
+    top: 17px;
+    left: 17px;
     width: 100px;
     height: 100px;
     perspective: 600px;
@@ -88,8 +88,8 @@ footer {
 
 .logo2 {
     position: absolute;
-    bottom: 20px; /* Adjusted from top to bottom */
-    left: 20px;
+    bottom: 17px; /* Adjusted from top to bottom */
+    left: 17px;
     width: 100px;
     height: 100px;
     perspective: 600px;
@@ -97,8 +97,8 @@ footer {
 
 .logo3 {
     position: absolute;
-    top: 20px; /* Adjusted from bottom to top */
-    right: 20px; /* Adjusted from left to right */
+    top: 17px; /* Adjusted from bottom to top */
+    right: 17px; /* Adjusted from left to right */
     width: 100px;
     height: 100px;
     perspective: 600px;
@@ -106,8 +106,8 @@ footer {
 
 .logo4 {
     position: absolute;
-    bottom: 20px; /* Adjusted from top to bottom */
-    right: 20px; /* Adjusted from left to right */
+    bottom: 17px; /* Adjusted from top to bottom */
+    right: 17px; /* Adjusted from left to right */
     width: 100px;
     height: 100px;
     perspective: 600px;
